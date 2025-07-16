@@ -4,6 +4,7 @@ I'm Muaz Islam, a passionate developer!
 
 ## 🛠 Skills
 - Python
+- C++
 - JavaScript
 - Git & GitHub
 
